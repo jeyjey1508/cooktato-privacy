@@ -65,7 +65,7 @@ Cooktato uses reasonable technical measures to protect your information from una
 
 ## 5. Data Retention
 
-Cooking history is stored for up to 30 days. Other user-generated data remains stored until the user deletes it, clears it, or deletes their account.
+Cooking history is stored for up to 30 days. Other user-generated data remains stored until the user deletes it, clears it, or requests deletion of their data.
 
 ---
 
@@ -75,7 +75,7 @@ You may:
 
 - Access your data
 - Delete your data (e.g., clear history or delete items)
-- Delete your account
+- Request deletion of your account data by contacting us
 
 To request data deletion or for privacy-related questions, please contact:
 
