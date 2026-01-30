@@ -1,6 +1,6 @@
 # Privacy Policy for Cooktato
 
-**Last updated:** 2026-01-28
+**Last updated:** 2026-01-30
 
 Cooktato respects your privacy. This Privacy Policy explains how your information is collected, used, and protected when you use the Cooktato mobile application.
 
